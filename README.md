@@ -45,7 +45,7 @@ Add yourself below! Keep it alphabetical by first name.
 
 | Name | Major / Year | GitHub | GWC Role |
 | ---- | ------------ | ------ | -------- |
-| Mariah Gardner | CS / Senior | [@](https://github.com/mxgardner) | Founding VP |
+| Mariah Gardner | CS / Senior | [@mxgardner](https://github.com/mxgardner) | Founding VP |
 
 ## 🦋 Project Structure
 
