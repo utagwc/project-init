@@ -43,9 +43,9 @@ A Pull Request (PR) asks the team to add your changes to the main project. Someo
 
 Add yourself below! Keep it alphabetical by first name.
 
-| Name | Major / Year | GitHub | Fun Fact |
+| Name | Major / Year | GitHub | GWC Role |
 | ---- | ------------ | ------ | -------- |
-|  |  | [@](https://github.com/) |  |
+| Mariah Gardner | CS / Senior | [@](https://github.com/mxgardner) | Founding VP |
 
 ## 🦋 Project Structure
 
