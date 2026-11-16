@@ -46,6 +46,7 @@ Add yourself below! Keep it alphabetical by first name.
 | Name | Major / Year | GitHub | GWC Role |
 | ---- | ------------ | ------ | -------- |
 | Mariah Gardner | CS / Senior | [@mxgardner](https://github.com/mxgardner) | Founding VP |
+| Leah Shepherd | CS / Junior | [@ResisPuff](https://github.com/ResisPuff) | The awsomes Member |
 
 ## 🦋 Project Structure
 
