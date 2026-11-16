@@ -46,6 +46,7 @@ Add yourself below! Keep it alphabetical by first name.
 | Name | Major / Year | GitHub | GWC Role |
 | ---- | ------------ | ------ | -------- |
 | Mariah Gardner | CS / Senior | [@mxgardner](https://github.com/mxgardner) | Founding VP |
+| Rohita Konjeti | CS / Senior | [@maples](https://github.com/maples) | Founding P |
 
 ## 🦋 Project Structure
 
